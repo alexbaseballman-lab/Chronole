@@ -55,3 +55,9 @@ export function bucketForDistance(distanceKm, maxDistanceKm = MAX_DISTANCE_KM) {
   if (t < 0.7) return { emoji: '🟧', label: 'Far' };
   return { emoji: '🟥', label: 'Very far' };
 }
+
+// CSS gradient built from the same stops colorForDistance uses, so the
+// on-screen legend always matches what the globe actually renders.
+export const LEGEND_GRADIENT = `linear-gradient(to right, ${STOPS.map(
+  (s) => `rgb(${s.rgb.join(', ')}) ${Math.round(s.t * 100)}%`,
+).join(', ')})`;

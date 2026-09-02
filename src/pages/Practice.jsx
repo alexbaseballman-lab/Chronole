@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import Globe from '../components/Globe';
 import GuessInput from '../components/GuessInput';
+import ColorLegend from '../components/ColorLegend';
 import GuessList from '../components/GuessList';
 import HintPanel from '../components/HintPanel';
 import AdSlot from '../components/AdSlot';
@@ -45,6 +46,7 @@ export default function Practice() {
             onGuess={game.submitGuess}
             disabled={game.solved}
           />
+          <ColorLegend />
           <HintPanel
             answer={puzzle.answer}
             guessCount={game.guesses.length}
