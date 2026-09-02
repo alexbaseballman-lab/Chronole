@@ -48,7 +48,11 @@ export default function Play() {
         <p className="year-label">{puzzle.label}</p>
       </header>
       <div className="play-layout">
-        <Globe entities={puzzle.yearData.entities} colorFor={game.colorFor} />
+        <Globe
+          entities={puzzle.yearData.entities}
+          colorFor={game.colorFor}
+          focusCentroid={game.lastGuess?.centroid}
+        />
         <aside className="play-sidebar">
           <GuessInput
             entities={puzzle.yearData.entities}

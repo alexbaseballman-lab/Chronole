@@ -5,7 +5,7 @@ import GlobeGL from 'react-globe.gl';
 // input, not by clicking the globe (matching Globle: clicking the globe
 // is how you *start* the game, typing is how you play it). polygonLabel
 // is deliberately blank so hovering never leaks the entity's name.
-export default function Globe({ entities, colorFor }) {
+export default function Globe({ entities, colorFor, focusCentroid }) {
   const containerRef = useRef(null);
   const globeRef = useRef(null);
   const [size, setSize] = useState({ width: 600, height: 600 });
@@ -25,6 +25,14 @@ export default function Globe({ entities, colorFor }) {
     observer.observe(el);
     return () => observer.disconnect();
   }, []);
+
+  // Snap the camera to whichever entity was just guessed, so players can
+  // see it without hunting around the globe themselves.
+  useEffect(() => {
+    if (!focusCentroid || !globeRef.current) return;
+    const [lng, lat] = focusCentroid;
+    globeRef.current.pointOfView({ lat, lng, altitude: 1.6 }, 1000);
+  }, [focusCentroid]);
 
   return (
     <div ref={containerRef} className="globe-container">

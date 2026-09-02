@@ -45,7 +45,10 @@ export function useGame({ puzzle, mode }) {
       if (!puzzle || solved || guessedIds.has(entity.id)) return;
       const distanceKm = haversineKm(entity.centroid, puzzle.answer.centroid);
       const isCorrect = entity.id === puzzle.answer.id;
-      setGuesses((prev) => [...prev, { id: entity.id, name: entity.name, distanceKm }]);
+      setGuesses((prev) => [
+        ...prev,
+        { id: entity.id, name: entity.name, distanceKm, centroid: entity.centroid },
+      ]);
       if (isCorrect) setSolved(true);
     },
     [puzzle, solved, guessedIds],
@@ -66,9 +69,12 @@ export function useGame({ puzzle, mode }) {
     [guesses],
   );
 
+  const lastGuess = guesses[guesses.length - 1] ?? null;
+
   return {
     guesses,
     guessedIds,
+    lastGuess,
     solved,
     hintUsed,
     hintThreshold: HINT_THRESHOLD,
