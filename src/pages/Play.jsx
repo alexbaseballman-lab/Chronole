@@ -4,6 +4,7 @@ import GuessInput from '../components/GuessInput';
 import ColorLegend from '../components/ColorLegend';
 import GuessList from '../components/GuessList';
 import HintPanel from '../components/HintPanel';
+import GiveUpControl from '../components/GiveUpControl';
 import ShareResult from '../components/ShareResult';
 import AdSlot from '../components/AdSlot';
 import { getDailyPuzzle } from '../lib/puzzle';
@@ -31,8 +32,8 @@ export default function Play() {
   const game = useGame({ puzzle, mode: 'daily' });
 
   useEffect(() => {
-    if (game.solved) setShowShare(true);
-  }, [game.solved]);
+    if (game.ended) setShowShare(true);
+  }, [game.ended]);
 
   if (error) {
     return <div className="page play-page-loading">Couldn&rsquo;t load today&rsquo;s puzzle. Try refreshing.</div>;
@@ -51,14 +52,15 @@ export default function Play() {
         <Globe
           entities={puzzle.yearData.entities}
           colorFor={game.colorFor}
-          focusCentroid={game.lastGuess?.centroid}
+          strokeFor={game.strokeFor}
+          focusCentroid={game.gaveUp ? puzzle.answer.centroid : game.lastGuess?.centroid}
         />
         <aside className="play-sidebar">
           <GuessInput
             entities={puzzle.yearData.entities}
             guessedIds={game.guessedIds}
             onGuess={game.submitGuess}
-            disabled={game.solved}
+            disabled={game.ended}
           />
           <ColorLegend />
           <HintPanel
@@ -69,6 +71,9 @@ export default function Play() {
             onReveal={game.revealHint}
           />
           <GuessList guesses={game.guesses} />
+          {!game.ended && (
+            <GiveUpControl guessCount={game.guesses.length} onGiveUp={game.giveUp} />
+          )}
           <AdSlot className="sidebar-ad" />
         </aside>
       </div>

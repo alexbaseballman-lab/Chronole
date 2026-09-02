@@ -8,6 +8,7 @@ export default function Landing() {
         <h1>Chronole</h1>
         <p className="tagline">Every day, a year from history. Guess who ruled it.</p>
         <Link className="cta" to="/how-to-play">How to Play</Link>
+        <Link className="skip-to-play" to="/play">Already know how to play? Jump right in →</Link>
       </header>
       <AdSlot className="landing-ad" />
       <section className="landing-blurb">

@@ -25,7 +25,7 @@ export default function ShareResult({ puzzle, guesses, solved, hintUsed, onClose
   return (
     <div className="modal-backdrop" role="dialog" aria-modal="true" aria-label="Share result">
       <div className="modal share-modal">
-        <h2>{solved ? 'Solved!' : 'Nice try'}</h2>
+        <h2>{solved ? 'Solved!' : 'Gave up'}</h2>
         <p>
           The answer was <strong>{puzzle.answer.name}</strong> in {puzzle.label}.
         </p>

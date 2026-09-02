@@ -5,7 +5,7 @@ import GlobeGL from 'react-globe.gl';
 // input, not by clicking the globe (matching Globle: clicking the globe
 // is how you *start* the game, typing is how you play it). polygonLabel
 // is deliberately blank so hovering never leaks the entity's name.
-export default function Globe({ entities, colorFor, focusCentroid }) {
+export default function Globe({ entities, colorFor, strokeFor, focusCentroid }) {
   const containerRef = useRef(null);
   const globeRef = useRef(null);
   const [size, setSize] = useState({ width: 600, height: 600 });
@@ -45,7 +45,7 @@ export default function Globe({ entities, colorFor, focusCentroid }) {
         polygonGeoJsonGeometry={(d) => d.geometry}
         polygonCapColor={colorFor}
         polygonSideColor={() => 'rgba(15, 18, 30, 0.6)'}
-        polygonStrokeColor={() => '#0b0f19'}
+        polygonStrokeColor={strokeFor ?? (() => '#0b0f19')}
         polygonLabel={() => ''}
         polygonAltitude={0.006}
         polygonsTransitionDuration={300}

@@ -4,6 +4,7 @@ import GuessInput from '../components/GuessInput';
 import ColorLegend from '../components/ColorLegend';
 import GuessList from '../components/GuessList';
 import HintPanel from '../components/HintPanel';
+import GiveUpControl from '../components/GiveUpControl';
 import AdSlot from '../components/AdSlot';
 import { getPracticePuzzle } from '../lib/puzzle';
 import { useGame } from '../hooks/useGame';
@@ -41,14 +42,15 @@ export default function Practice() {
         <Globe
           entities={puzzle.yearData.entities}
           colorFor={game.colorFor}
-          focusCentroid={game.lastGuess?.centroid}
+          strokeFor={game.strokeFor}
+          focusCentroid={game.gaveUp ? puzzle.answer.centroid : game.lastGuess?.centroid}
         />
         <aside className="play-sidebar">
           <GuessInput
             entities={puzzle.yearData.entities}
             guessedIds={game.guessedIds}
             onGuess={game.submitGuess}
-            disabled={game.solved}
+            disabled={game.ended}
           />
           <ColorLegend />
           <HintPanel
@@ -58,14 +60,25 @@ export default function Practice() {
             hintUsed={game.hintUsed}
             onReveal={game.revealHint}
           />
-          {game.solved && (
+          {game.ended && (
             <div className="solved-banner">
               <p>
-                Solved in {game.guesses.length} guess{game.guesses.length === 1 ? '' : 'es'}! It
-                was <strong>{puzzle.answer.name}</strong>.
+                {game.solved ? (
+                  <>
+                    Solved in {game.guesses.length} guess{game.guesses.length === 1 ? '' : 'es'}!
+                    It was <strong>{puzzle.answer.name}</strong>.
+                  </>
+                ) : (
+                  <>
+                    It was <strong>{puzzle.answer.name}</strong>.
+                  </>
+                )}
               </p>
               <button type="button" onClick={() => setRoundKey((k) => k + 1)}>New round</button>
             </div>
+          )}
+          {!game.ended && (
+            <GiveUpControl guessCount={game.guesses.length} onGiveUp={game.giveUp} />
           )}
           <GuessList guesses={game.guesses} />
           <AdSlot className="sidebar-ad" />

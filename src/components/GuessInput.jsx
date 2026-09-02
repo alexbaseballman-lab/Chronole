@@ -6,6 +6,7 @@ import { useMemo, useState } from 'react';
 export default function GuessInput({ entities, guessedIds, onGuess, disabled }) {
   const [text, setText] = useState('');
   const [activeIndex, setActiveIndex] = useState(-1);
+  const [noMatch, setNoMatch] = useState(false);
 
   const suggestions = useMemo(() => {
     const q = text.trim().toLowerCase();
@@ -20,6 +21,7 @@ export default function GuessInput({ entities, guessedIds, onGuess, disabled }) 
     onGuess(entity);
     setText('');
     setActiveIndex(-1);
+    setNoMatch(false);
   }
 
   function handleKeyDown(e) {
@@ -31,7 +33,14 @@ export default function GuessInput({ entities, guessedIds, onGuess, disabled }) 
       setActiveIndex((i) => Math.max(i - 1, 0));
     } else if (e.key === 'Enter') {
       e.preventDefault();
-      submit(suggestions[activeIndex] ?? suggestions[0]);
+      const pick = suggestions[activeIndex] ?? suggestions[0];
+      if (pick) {
+        submit(pick);
+      } else if (text.trim()) {
+        // Nothing in this year matches what was typed — say so instead
+        // of silently doing nothing, which reads as the input being broken.
+        setNoMatch(true);
+      }
     }
   }
 
@@ -45,14 +54,16 @@ export default function GuessInput({ entities, guessedIds, onGuess, disabled }) 
         type="text"
         value={text}
         disabled={disabled}
-        placeholder={disabled ? 'Solved!' : 'Guess a historical state or people…'}
+        placeholder={disabled ? 'This round is over' : 'Guess a historical state or people…'}
         onChange={(e) => {
           setText(e.target.value);
           setActiveIndex(-1);
+          setNoMatch(false);
         }}
         onKeyDown={handleKeyDown}
         aria-autocomplete="list"
         aria-expanded={suggestions.length > 0}
+        aria-describedby={noMatch ? 'guess-no-match' : undefined}
         autoComplete="off"
       />
       {suggestions.length > 0 && (
@@ -69,6 +80,11 @@ export default function GuessInput({ entities, guessedIds, onGuess, disabled }) 
             </li>
           ))}
         </ul>
+      )}
+      {noMatch && (
+        <p id="guess-no-match" className="guess-no-match" role="status">
+          No match for that year — try another spelling or era.
+        </p>
       )}
     </div>
   );

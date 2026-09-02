@@ -104,9 +104,28 @@ async function fetchSnapshot(file) {
   return res.json();
 }
 
-function simplifyFeature(feature) {
+function kinkCount(feature) {
   try {
-    return turf.simplify(feature, { tolerance: 0.05, highQuality: false });
+    return turf.kinks(feature).features.length;
+  } catch {
+    // turf.kinks itself can choke on certain degenerate rings — treat as
+    // "unknown, assume worst" so the caller falls back to the safer geometry.
+    return Infinity;
+  }
+}
+
+// Douglas-Peucker simplification can push vertices past each other and
+// turn a clean ring into a self-intersecting ("bowtie") one, which
+// three-globe's triangulator renders as diagonal hatching instead of a
+// solid fill (two mis-wound triangles fighting for the same pixels).
+// highQuality:true is less prone to this, but not immune, so the result
+// is validated with turf.kinks() and rejected if it made things worse.
+function simplifyFeature(feature) {
+  const baselineKinks = kinkCount(feature);
+  try {
+    const simplified = turf.simplify(feature, { tolerance: 0.03, highQuality: true });
+    if (kinkCount(simplified) > baselineKinks) return feature;
+    return simplified;
   } catch {
     // Some features have degenerate geometry that turf can't simplify —
     // fall back to the original rather than dropping the entity.
@@ -141,11 +160,21 @@ function safeArea(feature) {
 // is computed.
 function mergeGeometries(features) {
   const polygons = [];
+  const seenRings = new Set();
   for (const f of features) {
-    if (f.geometry.type === 'Polygon') {
-      polygons.push(f.geometry.coordinates);
-    } else if (f.geometry.type === 'MultiPolygon') {
-      polygons.push(...f.geometry.coordinates);
+    const rings = f.geometry.type === 'Polygon' ? [f.geometry.coordinates]
+      : f.geometry.type === 'MultiPolygon' ? f.geometry.coordinates
+      : [];
+    for (const ring of rings) {
+      // The upstream source occasionally lists the same sub-polygon twice
+      // under one NAME (confirmed e.g. in "Trucial Oman" and "Qatar" in
+      // the 1938 snapshot). Two byte-identical triangulated surfaces at
+      // the same render altitude z-fight on the GPU — the other cause of
+      // the diagonal-hatching glitch, distinct from the simplify issue.
+      const key = JSON.stringify(ring);
+      if (seenRings.has(key)) continue;
+      seenRings.add(key);
+      polygons.push(ring);
     }
   }
   return { type: 'MultiPolygon', coordinates: polygons };
