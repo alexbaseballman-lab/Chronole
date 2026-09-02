@@ -1,0 +1,3566 @@
+[
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "manioc-farmers",
+    "name": "Manioc farmers"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "saharan-pastoral-nomads",
+    "name": "Saharan pastoral nomads"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "prot-altaic-pastoralists",
+    "name": "Prot-Altaic pastoralists"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "karasuk-culture",
+    "name": "Karasuk culture"
+  },
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "manioc-farmers",
+    "name": "Manioc farmers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "saharan-pastoral-nomads",
+    "name": "Saharan pastoral nomads"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "prot-altaic-pastoralists",
+    "name": "Prot-Altaic pastoralists"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "karasuk-culture",
+    "name": "Karasuk culture"
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "saharan-pastoral-nomads",
+    "name": "Saharan Pastoral Nomads"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "achaemenid-empire",
+    "name": "Achaemenid Empire"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "manioc-farmers",
+    "name": "Manioc farmers"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "id": "proto-altaic-pastoralists",
+    "name": "Proto-Altaic pastoralists"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "saharan-pastoral-nomads",
+    "name": "Saharan Pastoral Nomads"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "achaemenid-empire",
+    "name": "Achaemenid Empire"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "manioc-farmers",
+    "name": "Manioc farmers"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "empire-of-alexander",
+    "name": "Empire of Alexander"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "manioc-farmers",
+    "name": "Manioc farmers"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "id": "saharan-pastoral-nomads",
+    "name": "Saharan Pastoral Nomads"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "manioc-farmers",
+    "name": "Manioc farmers"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "id": "saharan-pastoral-nomads",
+    "name": "Saharan Pastoral Nomads"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "manioc-farmers",
+    "name": "Manioc farmers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "saharan-pastoral-nomads",
+    "name": "Saharan Pastoral Nomads"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "id": "scythians",
+    "name": "Scythians"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "roman-empire",
+    "name": "Roman Empire"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "id": "han",
+    "name": "Han"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "roman-empire",
+    "name": "Roman Empire"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "han",
+    "name": "Han"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "han",
+    "name": "Han"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "roman-empire",
+    "name": "Roman Empire"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "jin",
+    "name": "Jin"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "jin",
+    "name": "Jin"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "sasanian-empire",
+    "name": "Sasanian Empire"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "id": "sui-empire",
+    "name": "Sui Empire"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "sui-empire",
+    "name": "Sui Empire"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "g-kt-rks",
+    "name": "Göktürks"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "saharan-nomadic-tribes",
+    "name": "Saharan Nomadic Tribes"
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "abbasid-caliphate",
+    "name": "Abbasid Caliphate"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "tang-empire",
+    "name": "Tang Empire"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "tupis",
+    "name": "Tupis"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "ouighurs",
+    "name": "Ouighurs"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "plain-bison-hunters",
+    "name": "Plain bison hunters"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "tibetan-empire",
+    "name": "Tibetan Empire"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "tibetan-empire",
+    "name": "Tibetan Empire"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "tang-empire",
+    "name": "Tang Empire"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "tupis",
+    "name": "Tupis"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "ouighurs",
+    "name": "Ouighurs"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "plain-bison-hunters",
+    "name": "Plain bison hunters"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "mandes",
+    "name": "Mandes"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "oghuz-turks",
+    "name": "Oghuz Turks"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "abbasid-caliphate",
+    "name": "Abbasid Caliphate"
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "id": "tuaregs",
+    "name": "Tuaregs"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "tibet",
+    "name": "Tibet"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "song-empire",
+    "name": "Song Empire"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "plain-bison-hunters",
+    "name": "Plain bison hunters"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "kimek-kipchak-khaganate",
+    "name": "Kimek-Kipchak khaganate"
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "id": "denmark-norway",
+    "name": "Denmark-Norway"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "song-empire",
+    "name": "Song Empire"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "plain-bison-hunters",
+    "name": "Plain bison hunters"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "mongols",
+    "name": "Mongols"
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "id": "cuman-kipchak-confederation",
+    "name": "Cuman-Kipchak confederation"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "song-empire",
+    "name": "Song Empire"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "paleo-siberian-hunter-gatherers",
+    "name": "Paleo-Siberian hunter-gatherers"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "arctic-marine-mammal-hunters",
+    "name": "Arctic marine mammal hunters"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "plain-bison-hunters",
+    "name": "Plain bison hunters"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "finno-ugric-taiga-hunter-gatherers",
+    "name": "Finno-Ugric taiga hunter-gatherers"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "cuman-khanates",
+    "name": "Cuman Khanates"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "mongol-empire",
+    "name": "Mongol Empire"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "berber-tribes",
+    "name": "Berber Tribes"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "tuareg-nomadic-tribes",
+    "name": "Tuareg Nomadic Tribes"
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "id": "kara-khitai-khaganate",
+    "name": "Kara Khitai Khaganate"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "chagatai-khanate",
+    "name": "Chagatai Khanate"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "siberians",
+    "name": "Siberians"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "ilkhanate",
+    "name": "Ilkhanate"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "khanate-of-the-golden-horde",
+    "name": "Khanate of the Golden Horde"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "touareg",
+    "name": "Touareg"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "id": "great-khanate",
+    "name": "Great Khanate"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "chagatai-khanate",
+    "name": "Chagatai Khanate"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "siberians",
+    "name": "Siberians"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "ilkhanate",
+    "name": "Ilkhanate"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "khanate-of-the-golden-horde",
+    "name": "Khanate of the Golden Horde"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "plain-bison-hunters",
+    "name": "Plain bison hunters"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "id": "great-khanate",
+    "name": "Great Khanate"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "siberians",
+    "name": "Siberians"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "eastern-north-amercian-hunter-gatherers",
+    "name": "Eastern North Amercian hunter-gatherers"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "great-khanate",
+    "name": "Great Khanate"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "kalmar-union",
+    "name": "Kalmar Union"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "white-horde",
+    "name": "White Horde"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "timurid-empire",
+    "name": "Timurid Empire"
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "id": "sultanate-of-delhi",
+    "name": "Sultanate of Delhi"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "ayutthaya",
+    "name": "Ayutthaya"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "malaysian-islamic-states",
+    "name": "Malaysian Islamic states"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "grand-duchy-of-moscow",
+    "name": "Grand Duchy of Moscow"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "poland-lithuania",
+    "name": "Poland-Lithuania"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "mamluke-sultanate",
+    "name": "Mamluke Sultanate"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "arabs",
+    "name": "Arabs"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "emirate-of-the-white-sheep-turks",
+    "name": "Emirate of the White Sheep Turks"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "sultanate-of-delhi",
+    "name": "Sultanate of Delhi"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "tibet",
+    "name": "Tibet"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "golden-horde",
+    "name": "Golden Horde"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "ming-empire",
+    "name": "Ming Empire"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "burmese-kingdoms",
+    "name": "Burmese kingdoms"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "holy-roman-empire",
+    "name": "Holy Roman Empire"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "siberians",
+    "name": "Siberians"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "khanate-of-sibir",
+    "name": "Khanate of Sibir"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "quechua",
+    "name": "Quechua"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "kiikaapoi-kickapoo",
+    "name": "Kiikaapoi (Kickapoo)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "niits-tpiis-stahkoii-blackfoot-niits-tapi",
+    "name": "Niitsítpiis-stahkoii ᖹᐟᒧᐧᐨᑯᐧ ᓴᐦᖾᐟ (Blackfoot / Niitsítapi ᖹᐟᒧᐧᒣᑯ)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "inuit",
+    "name": "Inuit"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "osage",
+    "name": "𐓏𐒰𐓓𐒰𐓓𐒷  𐒼𐓂𐓊𐒻  𐓆𐒻𐒿𐒷  𐓀𐒰^𐓓𐒰^(Osage)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "michif-piyii-m-tis",
+    "name": "Michif Piyii (Métis)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "anishinabewaki",
+    "name": "Anishinabewaki ᐊᓂᔑᓈᐯᐗᑭ"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "cree",
+    "name": "Cree"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "g-n-n-a-at-k-g-n-n-a-k-na",
+    "name": "Günün a atük (Günün a küna)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "tekoh-guarani",
+    "name": "Tekohá (Guarani)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "d-n-ndeh",
+    "name": "Dënéndeh"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "cheyenne",
+    "name": "Cheyenne"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "denendeh-d-n-s-in-n-n",
+    "name": "Denendeh (Dënësųłinë́ Nëné)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "wallmapu-mapuche",
+    "name": "Wallmapu (Mapuche)"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "o-h-thi-ak-wi",
+    "name": "Očhéthi Šakówiŋ"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "mbya",
+    "name": "Mbya"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "chagatai-khanate",
+    "name": "Chagatai Khanate"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "oirat-confederation",
+    "name": "Oirat Confederation"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "white-horde",
+    "name": "White Horde"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "timurid-emirates",
+    "name": "Timurid Emirates"
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "ming-chinese-empire",
+    "name": "Ming Chinese Empire"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "plain-bison-hunters",
+    "name": "Plain bison hunters"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "khoiasan",
+    "name": "Khoiasan"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "west-african-cereal-farmers",
+    "name": "West African cereal farmers"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "bantou",
+    "name": "Bantou"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "kalmar-union",
+    "name": "Kalmar Union"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "thule",
+    "name": "Thule"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "chagatai-khanate",
+    "name": "Chagatai Khanate"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "timurid-emirates",
+    "name": "Timurid Emirates"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "siberians",
+    "name": "Siberians"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "white-horde",
+    "name": "White Horde"
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "id": "grand-duchy-of-moscow",
+    "name": "Grand Duchy of Moscow"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "malaysian-islamic-states",
+    "name": "Malaysian Islamic states"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "inca-empire",
+    "name": "Inca Empire"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "safavid-empire",
+    "name": "Safavid Empire"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "mughal-empire",
+    "name": "Mughal Empire"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "tibet",
+    "name": "Tibet"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "islamic-and-hindu-states",
+    "name": "Islamic and Hindu states"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "ming-chinese-empire",
+    "name": "Ming Chinese Empire"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "t-atsaot-ine",
+    "name": "T'atsaot'ine"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "cree",
+    "name": "Cree"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice Royalty of New Spain"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "australian-aboriginal-hunter-gatherers",
+    "name": "Australian aboriginal hunter-gatherers"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "athabaskan",
+    "name": "Athabaskan"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "pampas-cultures",
+    "name": "Pampas cultures"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "khiva-khanate",
+    "name": "Khiva Khanate"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "tsardom-of-muscovy",
+    "name": "Tsardom of Muscovy"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "nogai-horde",
+    "name": "Nogai Horde"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "quazaq-khanate",
+    "name": "Quazaq Khanate"
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "id": "ayutthaya",
+    "name": "Ayutthaya"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "malaysian-islamic-states",
+    "name": "Malaysian Islamic states"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "inca-empire",
+    "name": "Inca Empire"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "safavid-empire",
+    "name": "Safavid Empire"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "mughal-empire",
+    "name": "Mughal Empire"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "tibet",
+    "name": "Tibet"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "islamic-and-hindu-states",
+    "name": "Islamic and Hindu states"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "ming-chinese-empire",
+    "name": "Ming Chinese Empire"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "t-atsaot-ine",
+    "name": "T'atsaot'ine"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "cree",
+    "name": "Cree"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice Royalty of New Spain"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "athabaskan",
+    "name": "Athabaskan"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "subarctic-forest-hunter-gatherers",
+    "name": "Subarctic forest hunter-gatherers"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "pampas-cultures",
+    "name": "Pampas cultures"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "tsardom-of-muscovy",
+    "name": "Tsardom of Muscovy"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "khiva-khanate",
+    "name": "Khiva Khanate"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "poland-llituania",
+    "name": "Poland-Llituania"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "quazaq-khanate",
+    "name": "Quazaq Khanate"
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "id": "central-asian-khanates",
+    "name": "central Asian khanates"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice-Royalty of New Spain"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "dutch-east-indies",
+    "name": "Dutch East Indies"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "vice-royalty-of-peru",
+    "name": "Vice Royalty of Peru"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "morocco",
+    "name": "Morocco"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "manchu-empire",
+    "name": "Manchu Empire"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "t-atsaot-ine",
+    "name": "T'atsaot'ine"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "athabaskan",
+    "name": "Athabaskan"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "pampas-cultures",
+    "name": "Pampas cultures"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "chukchi",
+    "name": "Chukchi"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "central-asian-khanates",
+    "name": "central Asian khanates"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "tsardom-of-muscovy",
+    "name": "Tsardom of Muscovy"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "quazaq-khanate",
+    "name": "Quazaq Khanate"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "safavid-empire",
+    "name": "Safavid Empire"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "mughal-empire",
+    "name": "Mughal Empire"
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "id": "tibet",
+    "name": "Tibet"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice-Royalty of New Spain"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "dutch-east-indies",
+    "name": "Dutch East Indies"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "tibet",
+    "name": "Tibet"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "safavid-empire",
+    "name": "Safavid Empire"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "vice-royalty-of-peru",
+    "name": "Vice Royalty of Peru"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "morocco",
+    "name": "Morocco"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "manchu-empire",
+    "name": "Manchu Empire"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "t-atsaot-ine",
+    "name": "T'atsaot'ine"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "athabascan",
+    "name": "Athabascan"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "savanna-hunter-gatherers",
+    "name": "Savanna hunter-gatherers"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "pampas-cultures",
+    "name": "Pampas cultures"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "central-asian-khanates",
+    "name": "central Asian khanates"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "quazaq-khanate",
+    "name": "Quazaq Khanate"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "tsardom-of-muscovy",
+    "name": "Tsardom of Muscovy"
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "id": "mughal-empire",
+    "name": "Mughal Empire"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "dutch-east-indies",
+    "name": "Dutch East Indies"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "manchu-empire",
+    "name": "Manchu Empire"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "tibet",
+    "name": "Tibet"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "safavid-empire",
+    "name": "Safavid Empire"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "central-asian-khanates",
+    "name": "central Asian khanates"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "mughal-empire",
+    "name": "Mughal Empire"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "vice-royalty-of-brazil",
+    "name": "Vice-Royalty of Brazil"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice-Royalty of New Spain"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "vice-royalty-of-peru",
+    "name": "Vice-Royalty of Peru"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "athabascan",
+    "name": "Athabascan"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "pampas-cultures",
+    "name": "Pampas cultures"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "amazon-hunter-gatherers",
+    "name": "Amazon hunter-gatherers"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "tsardom-of-muscovy",
+    "name": "Tsardom of Muscovy"
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "id": "quazaq-khanate",
+    "name": "Quazaq Khanate"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "vice-royalty-of-new-granada",
+    "name": "Vice-Royalty of New Granada"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "vice-royalty-of-brazil",
+    "name": "Vice-Royalty of Brazil"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "vice-royalty-of-peru",
+    "name": "Vice-Royalty of Peru"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice-Royalty of New Spain"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "central-asian-khanates",
+    "name": "central Asian khanates"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "rupert-s-land",
+    "name": "Rupert's Land"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "luisiana",
+    "name": "Luisiana"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "russian-empire",
+    "name": "Russian Empire"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "denmark-norway",
+    "name": "Denmark-Norway"
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "id": "qing-empire",
+    "name": "Qing Empire"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "vice-royalty-of-new-granada",
+    "name": "Vice-Royalty of New Granada"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "vice-royalty-of-brazil",
+    "name": "Vice-Royalty of Brazil"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "vice-royalty-of-peru",
+    "name": "Vice-Royalty of Peru"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice-Royalty of New Spain"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "central-asian-khanates",
+    "name": "central Asian khanates"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "rupert-s-land",
+    "name": "Rupert's Land"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "luisiana",
+    "name": "Luisiana"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "russian-empire",
+    "name": "Russian Empire"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "denmark-norway",
+    "name": "Denmark-Norway"
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "id": "qing-empire",
+    "name": "Qing Empire"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "manchu-empire",
+    "name": "Manchu Empire"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "vice-royalty-of-new-granada",
+    "name": "Vice-Royalty of New Granada"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "viceroyalty-of-brazil",
+    "name": "Viceroyalty of Brazil"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "vice-royalty-of-peru",
+    "name": "Vice-Royalty of Peru"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "new-south-wales",
+    "name": "New South Wales"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "vice-royalty-of-new-spain",
+    "name": "Vice-Royalty of New Spain"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "maratha-confederacy",
+    "name": "Maratha Confederacy"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "russian-empire",
+    "name": "Russian Empire"
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "kingdom-of-brazil",
+    "name": "Kingdom of Brazil"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "arabia",
+    "name": "Arabia"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "manchu-empire",
+    "name": "Manchu Empire"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "western-australia-uk",
+    "name": "Western Australia (UK)"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "united-states-of-america",
+    "name": "United States of America"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "british-raj",
+    "name": "British Raj"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "id": "russian-empire",
+    "name": "Russian Empire"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "kingdom-of-brazil",
+    "name": "Kingdom of Brazil"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "arabia",
+    "name": "Arabia"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "manchu-empire",
+    "name": "Manchu Empire"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "western-australia-uk",
+    "name": "Western Australia (UK)"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "united-states-of-america",
+    "name": "United States of America"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "ottoman-empire",
+    "name": "Ottoman Empire"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "british-raj",
+    "name": "British Raj"
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "id": "russian-empire",
+    "name": "Russian Empire"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "manchu-empire",
+    "name": "Manchu Empire"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "algeria",
+    "name": "Algeria"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "anglo-egyption-sudan",
+    "name": "Anglo-Egyption Sudan"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "french-west-africa",
+    "name": "French West Africa"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "british-raj",
+    "name": "British Raj"
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "id": "russian-empire",
+    "name": "Russian Empire"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "zaire-belgium",
+    "name": "Zaire (Belgium)"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "algeria",
+    "name": "Algeria"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "french-west-africa",
+    "name": "French West Africa"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "french-equatorial-africa",
+    "name": "French Equatorial Africa"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "chinese-warlords",
+    "name": "Chinese Warlords"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "ussr",
+    "name": "USSR"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "id": "british-raj",
+    "name": "British Raj"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "zaire-belgium",
+    "name": "Zaire (Belgium)"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "algeria",
+    "name": "Algeria"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "french-west-africa",
+    "name": "French West Africa"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "french-equatorial-africa",
+    "name": "French Equatorial Africa"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "chinese-warlords",
+    "name": "Chinese Warlords"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "white-russia",
+    "name": "White Russia"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "id": "british-raj",
+    "name": "British Raj"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "belgian-congo",
+    "name": "Belgian Congo"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "algeria-france",
+    "name": "Algeria (France)"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "french-west-africa",
+    "name": "French West Africa"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "chinese-warlords",
+    "name": "Chinese warlords"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "denmark",
+    "name": "Denmark"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "british-raj",
+    "name": "British Raj"
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "id": "ussr",
+    "name": "USSR"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "zaire",
+    "name": "Zaire"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "algeria",
+    "name": "Algeria"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "antarctica",
+    "name": "Antarctica"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "india",
+    "name": "India"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "china",
+    "name": "China"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "ussr",
+    "name": "USSR"
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "zaire",
+    "name": "Zaire"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "antarctica",
+    "name": "Antarctica"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "india",
+    "name": "India"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "china",
+    "name": "China"
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "id": "ussr",
+    "name": "USSR"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "china",
+    "name": "China"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "zaire",
+    "name": "Zaire"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "kazakhstan",
+    "name": "Kazakhstan"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "algeria",
+    "name": "Algeria"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "india",
+    "name": "India"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "greenland",
+    "name": "Greenland"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "id": "russia",
+    "name": "Russia"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "china",
+    "name": "China"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "zaire",
+    "name": "Zaire"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "kazakhstan",
+    "name": "Kazakhstan"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "algeria",
+    "name": "Algeria"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "india",
+    "name": "India"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "greenland",
+    "name": "Greenland"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "id": "russia",
+    "name": "Russia"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "united-states",
+    "name": "United States"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "china",
+    "name": "China"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "zaire",
+    "name": "Zaire"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "argentina",
+    "name": "Argentina"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "kazakhstan",
+    "name": "Kazakhstan"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "algeria",
+    "name": "Algeria"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "brazil",
+    "name": "Brazil"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "australia",
+    "name": "Australia"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "india",
+    "name": "India"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "sudan",
+    "name": "Sudan"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "greenland",
+    "name": "Greenland"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "canada",
+    "name": "Canada"
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "id": "russia",
+    "name": "Russia"
+  }
+]

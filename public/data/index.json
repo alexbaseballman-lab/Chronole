@@ -1,0 +1,266 @@
+[
+  {
+    "year": -1000,
+    "label": "1000 BCE",
+    "file": "years/-1000.json",
+    "entityCount": 69
+  },
+  {
+    "year": -700,
+    "label": "700 BCE",
+    "file": "years/-700.json",
+    "entityCount": 73
+  },
+  {
+    "year": -500,
+    "label": "500 BCE",
+    "file": "years/-500.json",
+    "entityCount": 74
+  },
+  {
+    "year": -400,
+    "label": "400 BCE",
+    "file": "years/-400.json",
+    "entityCount": 76
+  },
+  {
+    "year": -323,
+    "label": "323 BCE",
+    "file": "years/-323.json",
+    "entityCount": 68
+  },
+  {
+    "year": -300,
+    "label": "300 BCE",
+    "file": "years/-300.json",
+    "entityCount": 73
+  },
+  {
+    "year": -200,
+    "label": "200 BCE",
+    "file": "years/-200.json",
+    "entityCount": 86
+  },
+  {
+    "year": -1,
+    "label": "1 BCE",
+    "file": "years/-1.json",
+    "entityCount": 79
+  },
+  {
+    "year": 100,
+    "label": "100 CE",
+    "file": "years/100.json",
+    "entityCount": 83
+  },
+  {
+    "year": 200,
+    "label": "200 CE",
+    "file": "years/200.json",
+    "entityCount": 69
+  },
+  {
+    "year": 300,
+    "label": "300 CE",
+    "file": "years/300.json",
+    "entityCount": 71
+  },
+  {
+    "year": 400,
+    "label": "400 CE",
+    "file": "years/400.json",
+    "entityCount": 79
+  },
+  {
+    "year": 500,
+    "label": "500 CE",
+    "file": "years/500.json",
+    "entityCount": 87
+  },
+  {
+    "year": 600,
+    "label": "600 CE",
+    "file": "years/600.json",
+    "entityCount": 83
+  },
+  {
+    "year": 700,
+    "label": "700 CE",
+    "file": "years/700.json",
+    "entityCount": 126
+  },
+  {
+    "year": 800,
+    "label": "800 CE",
+    "file": "years/800.json",
+    "entityCount": 117
+  },
+  {
+    "year": 900,
+    "label": "900 CE",
+    "file": "years/900.json",
+    "entityCount": 135
+  },
+  {
+    "year": 1000,
+    "label": "1000 CE",
+    "file": "years/1000.json",
+    "entityCount": 129
+  },
+  {
+    "year": 1100,
+    "label": "1100 CE",
+    "file": "years/1100.json",
+    "entityCount": 139
+  },
+  {
+    "year": 1200,
+    "label": "1200 CE",
+    "file": "years/1200.json",
+    "entityCount": 129
+  },
+  {
+    "year": 1279,
+    "label": "1279 CE",
+    "file": "years/1279.json",
+    "entityCount": 113
+  },
+  {
+    "year": 1300,
+    "label": "1300 CE",
+    "file": "years/1300.json",
+    "entityCount": 113
+  },
+  {
+    "year": 1400,
+    "label": "1400 CE",
+    "file": "years/1400.json",
+    "entityCount": 115
+  },
+  {
+    "year": 1492,
+    "label": "1492 CE",
+    "file": "years/1492.json",
+    "entityCount": 1307
+  },
+  {
+    "year": 1500,
+    "label": "1500 CE",
+    "file": "years/1500.json",
+    "entityCount": 139
+  },
+  {
+    "year": 1530,
+    "label": "1530 CE",
+    "file": "years/1530.json",
+    "entityCount": 269
+  },
+  {
+    "year": 1600,
+    "label": "1600 CE",
+    "file": "years/1600.json",
+    "entityCount": 638
+  },
+  {
+    "year": 1650,
+    "label": "1650 CE",
+    "file": "years/1650.json",
+    "entityCount": 593
+  },
+  {
+    "year": 1700,
+    "label": "1700 CE",
+    "file": "years/1700.json",
+    "entityCount": 584
+  },
+  {
+    "year": 1715,
+    "label": "1715 CE",
+    "file": "years/1715.json",
+    "entityCount": 600
+  },
+  {
+    "year": 1783,
+    "label": "1783 CE",
+    "file": "years/1783.json",
+    "entityCount": 549
+  },
+  {
+    "year": 1800,
+    "label": "1800 CE",
+    "file": "years/1800.json",
+    "entityCount": 546
+  },
+  {
+    "year": 1815,
+    "label": "1815 CE",
+    "file": "years/1815.json",
+    "entityCount": 312
+  },
+  {
+    "year": 1880,
+    "label": "1880 CE",
+    "file": "years/1880.json",
+    "entityCount": 169
+  },
+  {
+    "year": 1900,
+    "label": "1900 CE",
+    "file": "years/1900.json",
+    "entityCount": 165
+  },
+  {
+    "year": 1914,
+    "label": "1914 CE",
+    "file": "years/1914.json",
+    "entityCount": 142
+  },
+  {
+    "year": 1920,
+    "label": "1920 CE",
+    "file": "years/1920.json",
+    "entityCount": 163
+  },
+  {
+    "year": 1930,
+    "label": "1930 CE",
+    "file": "years/1930.json",
+    "entityCount": 161
+  },
+  {
+    "year": 1938,
+    "label": "1938 CE",
+    "file": "years/1938.json",
+    "entityCount": 171
+  },
+  {
+    "year": 1945,
+    "label": "1945 CE",
+    "file": "years/1945.json",
+    "entityCount": 183
+  },
+  {
+    "year": 1960,
+    "label": "1960 CE",
+    "file": "years/1960.json",
+    "entityCount": 157
+  },
+  {
+    "year": 1994,
+    "label": "1994 CE",
+    "file": "years/1994.json",
+    "entityCount": 193
+  },
+  {
+    "year": 2000,
+    "label": "2000 CE",
+    "file": "years/2000.json",
+    "entityCount": 193
+  },
+  {
+    "year": 2010,
+    "label": "2010 CE",
+    "file": "years/2010.json",
+    "entityCount": 193
+  }
+]
