@@ -5,7 +5,6 @@ import { loadDailyState, saveDailyState } from '../lib/gameState';
 export const HINT_THRESHOLD = 4;
 
 const UNGUESSED_COLOR = 'rgba(90, 100, 130, 0.55)';
-const ANSWER_COLOR = '#f4c542';
 
 // Shared guess/scoring logic for both daily and practice modes. Daily
 // progress is persisted to localStorage keyed by date; practice is
@@ -56,12 +55,15 @@ export function useGame({ puzzle, mode }) {
 
   const colorFor = useCallback(
     (entity) => {
-      if (solved && entity.id === puzzle?.answer?.id) return ANSWER_COLOR;
+      // The winning guess is already in `guesses` at distance 0, so it
+      // naturally renders as the greenest point on the same gradient as
+      // every other guess — no separate "winner" color, which would
+      // contradict the close=green/far=red legend shown during play.
       const guess = guesses.find((g) => g.id === entity.id);
       if (!guess) return UNGUESSED_COLOR;
       return colorForDistance(guess.distanceKm);
     },
-    [guesses, solved, puzzle],
+    [guesses],
   );
 
   return {
