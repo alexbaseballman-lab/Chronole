@@ -46,6 +46,20 @@ const SNAPSHOTS = [
   })),
 ];
 
+// A few names in the upstream source have already-corrupted bytes (the
+// accented character was lost before it was ever committed — confirmed
+// against the raw source, not something introduced by this pipeline).
+// There's no way to algorithmically recover a replaced byte, so these
+// are just the couple of known cases, hand-corrected.
+const NAME_FIXES = new Map([
+  ['Teotihuac�n', 'Teotihuacán'],
+  ['Monte Alb�n', 'Monte Albán'],
+]);
+
+function fixName(name) {
+  return NAME_FIXES.get(name) ?? name;
+}
+
 // Names that show up in the dataset but aren't political entities.
 const JUNK_NAMES = new Set([
   'unclaimed',
@@ -167,7 +181,8 @@ async function processSnapshot({ file, year, label }) {
   const groups = new Map(); // name -> { props, features: [] }
   for (const feature of geojson.features ?? []) {
     const props = feature.properties ?? {};
-    const name = typeof props.NAME === 'string' ? props.NAME.trim() : null;
+    const rawName = typeof props.NAME === 'string' ? props.NAME.trim() : null;
+    const name = rawName ? fixName(rawName) : rawName;
     if (isJunk(name)) continue;
     if (!feature.geometry) continue;
 
